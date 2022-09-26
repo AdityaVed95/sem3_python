@@ -1,0 +1,5 @@
+f1 = open("temp", "w")
+f1.write("Hello world this is the Python file handler writing to the file temp")
+print("")
+print("")
+f1.close()

@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "transaction1": {
+        "from": "name1",
+        "to": "name2",
+        "amount": 100
+      }
+    },
+    {
+      "from": "name1",
+      "to": "name2",
+      "amount": 100,
+      "time": {
+        "time_date": 25,
+        "time_month": 6,
+        "time_year": 2022,
+        "time_hour": 17,
+        "time_minute": 45,
+        "time_second": 53
+      }
+    }
+  ]
+}

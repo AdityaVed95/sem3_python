@@ -1,0 +1,10 @@
+f = open("edit_me", "a")
+string1 = "this is to be written to the file from pycharm"
+print(f.tell())
+f.write(string1)
+f.flush()
+# f.seek(0, 0)
+# print(f.tell())
+# f.write("Hello now here\n")
+# print(f.tell())
+print("exiting")

@@ -1,0 +1,16 @@
+{
+	"books": [
+		{
+			"id": "01",
+			"language": "Python",
+			"edition": "Third",
+			"name": "Core Python"
+		},
+		{
+			"id": "02",
+			"language": "C",
+			"edition": "Fourth",
+			"name": "Let Us C"
+		}
+	]
+}

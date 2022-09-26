@@ -1,0 +1,12 @@
+{
+    "objects": [
+        {
+            "name": "Aditya",
+            "age": 19
+        },
+        {
+            "name": "Random"
+            "age": 123
+        }
+    ]
+}

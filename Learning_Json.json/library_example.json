@@ -1,0 +1,49 @@
+{
+    "library": {
+        "Engineering Section": {
+            "Computer Engineering": [
+                {
+                    "id": "01",
+                    "language": "Python",
+                    "edition": "Third",
+                    "name": "Core Python",
+                    "distinction": true,
+                    "status": 12
+                },
+                {
+                    "id": "02",
+                    "language": "C",
+                    "edition": "Fourth",
+                    "name": "Let Us C",
+                    "distinction": true,
+                    "status": 15
+                },
+                {
+                    "id": "03",
+                    "language": "Basic Computer",
+                    "edition": "Fifth",
+                    "name": "Computer Organisation and Architechure",
+                    "distinction": true
+                }
+            ],
+            "Electronics Engineering": [
+                {
+                    "id": "04",
+                    "edition": "Second",
+                    "name": "DSP",
+                    "distinction": false
+                }
+            ],
+            "Mechanical Engineering": []
+        },
+        "Science Section": {
+            "Physics": [],
+            "Chemistry": [],
+            "Biology": []
+        },
+        "Commerce Section": {
+            "CA": [],
+            "TYBCOM": []
+        }
+    }
+}

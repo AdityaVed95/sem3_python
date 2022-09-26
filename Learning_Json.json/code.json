@@ -1,0 +1,7 @@
+i = null;
+
+if(i == 1) {
+   document.write("<h1>value is 1</h1>");
+} else {
+   document.write("<h1>value is null</h1>");
+}

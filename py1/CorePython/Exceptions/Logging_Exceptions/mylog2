@@ -1,0 +1,5 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "/home/aditya/prj_ws/py1/CorePython/Exceptions/Logging_Exceptions/try_except_log.py", line 8, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
